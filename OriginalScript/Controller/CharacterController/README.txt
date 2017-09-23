@@ -1,0 +1,2 @@
+﻿SteamVR_CharacterController : 抓取左，右，頭盔位置做動作判斷，會把參數傳進SteamVR_CharacterHandController  裡面
+SteamVR_CharacterHandController : 做上下左右控制
